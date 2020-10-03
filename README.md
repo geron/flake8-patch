@@ -30,4 +30,8 @@ This uses the mocker fixture from `pytest-mock` to automatically unwind the patc
 
 **Unreleased**
 
+...
+
+**0.1.0 - 2020-10-02**
+
 Add PAT001: assignment to imported name

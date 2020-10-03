@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "flake8-patch"
-version = "0.0.0"
+version = "0.1.0"
 description = "A flake8 plugin checking for mocking issues."
 authors = ["Luiz Geron <luiz@geron.me>"]
 license = "MIT"
